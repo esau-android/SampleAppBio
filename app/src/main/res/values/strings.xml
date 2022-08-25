@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CouttsDialogDataNotDetected</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_main_fragment">Hello main fragment</string>
+    <string name="click_me_text">Click Me</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_second_fragment">Hello second fragment</string>
+    <string name="hello_main_activity">Hello main activity</string>
+    <string name="action">android.intent.action.COCREA</string>
+</resources>
